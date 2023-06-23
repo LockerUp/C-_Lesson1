@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\loockerup\\Desktop\\Типо обучаюсь\\GB\\C# - lesson1\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj": {}
+    "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\loockerup\\Desktop\\Типо обучаюсь\\GB\\C# - lesson1\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj": {
+    "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loockerup\\Desktop\\Типо обучаюсь\\GB\\C# - lesson1\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
         "projectName": "lesson1_HelloConsole",
-        "projectPath": "C:\\Users\\loockerup\\Desktop\\Типо обучаюсь\\GB\\C# - lesson1\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\loockerup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loockerup\\Desktop\\Типо обучаюсь\\GB\\C# - lesson1\\lesson1_HelloConsole\\obj\\",
+        "projectPath": "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\proku\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\loockerup\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\proku\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
