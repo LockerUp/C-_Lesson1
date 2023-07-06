@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\proku\\.nuget\\packages\\": {}
+    "C:\\Users\\Andrey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
+      "projectUniqueName": "c:\\Users\\Andrey\\Desktop\\gb\\C-sharp\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
       "projectName": "lesson1_HelloConsole",
-      "projectPath": "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\proku\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\proku\\Desktop\\учёба\\C#\\GB\\lekcii\\lesson1_HelloConsole\\obj\\",
+      "projectPath": "c:\\Users\\Andrey\\Desktop\\gb\\C-sharp\\lekcii\\lesson1_HelloConsole\\lesson1_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Andrey\\Desktop\\gb\\C-sharp\\lekcii\\lesson1_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\proku\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
