@@ -5,17 +5,15 @@
 Console.Clear();
 
 System.Console.WriteLine("Введите точку b1: ");
-double b1 = int.Parse(Console.ReadLine());
+double b1 = double.Parse(Console.ReadLine());
 System.Console.WriteLine("Введите точку k1: ");
-double k1 = int.Parse(Console.ReadLine());
+double k1 = double.Parse(Console.ReadLine());
 System.Console.WriteLine("Введите точку b2: ");
-double b2 = int.Parse(Console.ReadLine());
+double b2 = double.Parse(Console.ReadLine());
 System.Console.WriteLine("Введите точку k2: ");
-double k2 = int.Parse(Console.ReadLine());
+double k2 = double.Parse(Console.ReadLine());
 
 double x = (k2 - k1) / (-(b2 - b1));
 double y = b2 * x + k2;
 
-System.Console.WriteLine($"({x},{y})");
-
-
+System.Console.WriteLine($"({x}; {y})");
