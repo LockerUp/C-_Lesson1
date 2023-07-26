@@ -22,7 +22,7 @@ int[,] CreateAndFillMatrix(int row, int col)
 {
     int[,] matrix = new int[row, col];
     int count = 1;
-    for (int i = 0; i < row; i++)
+    for (int i = 0; i < (row - i)/2; i++)
     {
         for (int j = i; j < col - i; j++)
         {
@@ -34,14 +34,14 @@ int[,] CreateAndFillMatrix(int row, int col)
             matrix[j, col - 1 - i] = count++;
         }
 
-        for (int j = col - 1 - i; j > i; j--)
+        for (int j = col - 1 - i; j > row / 2; j--)
         {
             matrix[row - 1 - i, j-1] = count++;
         }
 
-        for (int j = row-1-i; j > i+1; j--)
+        for (int j = row - 1 - i; j > i + 1; j--)
         {
-            matrix[j-1, i] = count++;
+            matrix[j - 1, i] = count++;
         }
     }
     return matrix;
